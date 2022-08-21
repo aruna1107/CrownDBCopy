@@ -1,0 +1,13 @@
+C:\Users\AcmeITC\AppData\Local\Temporary Projects\CrownDBCopy\bin\Debug\CrownDBCopy.exe
+C:\Users\AcmeITC\AppData\Local\Temporary Projects\CrownDBCopy\bin\Debug\CrownDBCopy.pdb
+C:\Users\AcmeITC\AppData\Local\Temporary Projects\CrownDBCopy\bin\Debug\CrownDBCopy.xml
+C:\Users\AcmeITC\AppData\Local\Temporary Projects\CrownDBCopy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AcmeITC\AppData\Local\Temporary Projects\CrownDBCopy\obj\Debug\CrownDBCopy.Form1.resources
+C:\Users\AcmeITC\AppData\Local\Temporary Projects\CrownDBCopy\obj\Debug\CrownDBCopy.Resources.resources
+C:\Users\AcmeITC\AppData\Local\Temporary Projects\CrownDBCopy\obj\Debug\CrownDBCopy.vbproj.GenerateResource.Cache
+C:\Users\AcmeITC\AppData\Local\Temporary Projects\CrownDBCopy\obj\Debug\CrownDBCopy.exe
+C:\Users\AcmeITC\AppData\Local\Temporary Projects\CrownDBCopy\obj\Debug\CrownDBCopy.xml
+C:\Users\AcmeITC\AppData\Local\Temporary Projects\CrownDBCopy\obj\Debug\CrownDBCopy.pdb
+F:\SQL Server\CrownDBCopy\CrownDBCopy\CrownDBCopy\obj\Debug\CrownDBCopy.exe
+F:\SQL Server\CrownDBCopy\CrownDBCopy\CrownDBCopy\obj\Debug\CrownDBCopy.xml
+F:\SQL Server\CrownDBCopy\CrownDBCopy\CrownDBCopy\obj\Debug\CrownDBCopy.pdb
